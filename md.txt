@@ -1,0 +1,19 @@
+create projec npm vite @latest
+intall        npm install
+add extention  es7+react+redux ,prettier,tailwind intense(for classes)
+
+some libraries;
+.npm i framer-motion  for add animation
+.npm i react-anchor-link-smooth-scroll@1.0.12 smooh scrolling
+.npm i @heroicons/react   icons made by tailwind
+npm i -D(help during build the project) @types/react-anchor-link-smooth-scroll@1.0.2(to know some inbuilt type) @types/node()
+npm i -D prettier prettier-plugin-tailwindcss(for allow prettier gtailwind configuration)
+npm i react form hook (form form validation)
+npm i react lazy load image component
+
+intall tailwind css with vite
+.npm install -D tailwindcss postcss autoprefixer
+.npx tailwindcss init -p
+
+create prettier.config.cjs file
+
